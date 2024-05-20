@@ -1,4 +1,5 @@
-```class Solution:
+```python
+class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         size = len(nums)       
 
@@ -13,5 +14,5 @@
             else:
                 right = mid - 1 #在左區間尋找'
 
-        return left #如果找不到target值就把它插入在這格
+    return left #如果找不到target值就把它插入在這格
 ```
