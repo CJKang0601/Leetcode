@@ -1,4 +1,5 @@
-<class Solution:
+```
+class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         slow = 0
         fast = 0
@@ -7,7 +8,8 @@
                 nums[slow], nums[fast] = nums[fast], nums[slow]
                 slow += 1 #只有跟val相同的數值才需要紀錄 並加一格新的位置給它
             fast += 1
-        return slow #回傳有放數值的位置>
+        return slow #回傳有放數值的位置
+```
 
         
           
