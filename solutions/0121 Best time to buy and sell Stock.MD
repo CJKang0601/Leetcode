@@ -1,4 +1,4 @@
-```python==
+```python
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         minprice = 100001
