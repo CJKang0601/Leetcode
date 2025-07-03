@@ -8,10 +8,12 @@ practice coding on Hackerearth
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CJKang0601/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/CJKang0601/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/CJKang0601/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/CJKang0601/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -27,4 +29,8 @@ practice coding on Hackerearth
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CJKang0601/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
