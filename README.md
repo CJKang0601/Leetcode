@@ -15,6 +15,7 @@ practice coding on Hackerearth
 | ------- |
 | [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/CJKang0601/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [3617-find-the-original-typed-string-i](https://github.com/CJKang0601/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
