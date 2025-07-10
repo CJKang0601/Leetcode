@@ -23,12 +23,14 @@ practice coding on Hackerearth
 | [0283-move-zeroes](https://github.com/CJKang0601/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/CJKang0601/Leetcode/tree/master/0605-can-place-flowers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CJKang0601/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CJKang0601/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CJKang0601/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/CJKang0601/Leetcode/tree/master/0605-can-place-flowers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CJKang0601/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CJKang0601/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CJKang0601/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
@@ -50,4 +52,8 @@ practice coding on Hackerearth
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CJKang0601/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CJKang0601/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
