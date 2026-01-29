@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/CJKang0601/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CJKang0601/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/CJKang0601/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
@@ -12,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/CJKang0601/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/CJKang0601/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3617-find-the-original-typed-string-i](https://github.com/CJKang0601/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
