@@ -1,5 +1,3 @@
-# Hackerearth
-practice coding on Hackerearth
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
