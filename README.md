@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/CJKang0601/Leetcode/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/CJKang0601/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CJKang0601/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CJKang0601/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CJKang0601/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CJKang0601/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CJKang0601/Leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CJKang0601/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
