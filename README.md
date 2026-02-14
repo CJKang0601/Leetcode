@@ -16,6 +16,7 @@
 | [0125-valid-palindrome](https://github.com/CJKang0601/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/CJKang0601/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/CJKang0601/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/CJKang0601/Leetcode/tree/master/3110-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/CJKang0601/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
